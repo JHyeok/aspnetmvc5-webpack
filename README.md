@@ -1,5 +1,11 @@
 # ASP.NET MVC5 + Webpack + Babel
 ---
+#### Implemented features
+- webpack
+- babel
+- npm-watch
+- scss
 
-- WebPack(bootstrap, jquery)
-- Babel
+Bundle bootstrap and jqeury with webpack.
+
+
